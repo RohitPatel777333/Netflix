@@ -1,0 +1,31 @@
+http://localhost:8090/netflix/all      
+
+http://localhost:8090/userData/all       ---> Cards
+
+http://localhost:8090/userData/save
+
+
+
+postman
+http://localhost:8090/netflix/save
+
+
+for disabling the  web security below is the command:
+
+chrome.exe --user-data-dir="C://Chrome dev session" --disable-web-securitychrome.exe --user-data-dir="C://Chrome dev session" --disable-web-security
+
+
+
+
+
+shift + ctrl + O   ---> for import
+
+windows has cmd
+Ubuntu(Linux) has bash window
+Use the CTRL+ALT+t shortcut key to open a new bash window
+
+which one is better annonymous innner class or lambda expression?
+
+what is backend implemantation if we use lambda expressions?
+
+' backtick in javaScript
